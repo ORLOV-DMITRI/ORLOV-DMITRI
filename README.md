@@ -9,7 +9,7 @@
 
 - :seedling: Список дел. React/Redux/ReactHook <a href="https://orlov-dmitri.github.io/TodoReactRedux">Ссылка</a>
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: Приложение по созданию сотрудников. React/Redux/ExpressJS/NodeJs/RestApi <a href="http://u153169.test-handyhost.ru/register">Ссылка</a>
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 <div>
