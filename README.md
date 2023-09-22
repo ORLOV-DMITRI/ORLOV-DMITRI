@@ -7,7 +7,7 @@
      Ссылка
   </a>.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Список дел. React/Redux/ReactHook <a href="https://orlov-dmitri.github.io/TodoReactRedux">Ссылка</a>
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
