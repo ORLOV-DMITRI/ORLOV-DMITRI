@@ -20,7 +20,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
 
-<div>
-https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true
-
-</div>
