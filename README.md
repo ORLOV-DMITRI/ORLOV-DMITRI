@@ -4,7 +4,7 @@
 <div> I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></div>
 
 - :telescope: Адаптивная верстка. HTML/SCSS/JS   <a href="https://orlov-dmitri.github.io/NoTab-responsive-layout/">
-    <img src="https://github.com/ORLOV-DMITRI/ORLOV-DMITRI/blob/main/img/Screenshot_7.jpg" width="100" />
+     Ссылка
   </a>.
 
 - :seedling: Exploring Technical Content Writing.
