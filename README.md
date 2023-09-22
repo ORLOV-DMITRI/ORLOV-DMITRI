@@ -3,7 +3,9 @@
 </div>
 <div> I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></div>
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: Адаптивная верстка. HTML/SCSS/JS   <a href="https://orlov-dmitri.github.io/NoTab-responsive-layout/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>.
 
 - :seedling: Exploring Technical Content Writing.
 
