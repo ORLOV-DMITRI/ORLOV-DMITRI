@@ -11,9 +11,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="20" height="20"/> Next.js
 <img src="https://vitejs.dev/logo.svg" title="Vite" alt="Vite" width="20" height="20"/> Vite
 <img src="https://expressjs.com/images/express-facebook-share.png" title="Express.js" alt="Express.js" width="20" height="20"/> Express.js
-<img src="/img/tanstack.png" title="Tanstack Query" alt="Tanstack Query" width="20" height="20"/> TanStack Query
-Axios
-WebSocket
+<img src="/img/tanstack.png" title="Tanstack Query" alt="Tanstack Query" width="20" height="20"/> TanStack-Query
+<img src="/img/formik.png" title="Tanstack Query" alt="Tanstack Query" width="20" height="20"/> Formik
 
 
 
