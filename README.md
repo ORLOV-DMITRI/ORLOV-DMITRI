@@ -6,7 +6,7 @@ JavaScript framework
 <div style="display: flex;">
   <div style="display: flex; align-items: center">
     Main technologies: &nbsp
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="20" height="20"/> HTML &nbsp | &nbsp
+   &nbsp <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="20" height="20"/> HTML &nbsp | &nbsp
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS" alt="CSS" width="20" height="20"/> CSS &nbsp | &nbsp
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="20" height="20"/> JavaScript
   </div>
