@@ -13,7 +13,7 @@ JavaScript framework
   
   <div style="display: flex; align-items: center">
     JavaScript framework: &nbsp
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="20" height="20"/> Next.js
+   &nbsp <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="20" height="20"/> Next.js
   </div>
   
   <div style="display: flex; align-items: center">
