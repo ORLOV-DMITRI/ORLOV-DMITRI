@@ -1,8 +1,14 @@
 
 <div> I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></div>
 
+### Work examples 
+
+- React, Tailwind - Zoom Clone
+
+
+
 ### Technologies Used:
-JavaScript framework
+
 <div style="display: flex;">
   <div style="display: flex; align-items: center">
     Main technologies: &nbsp
