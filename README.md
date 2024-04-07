@@ -25,12 +25,12 @@ JavaScript framework
   
   <div style="display: flex; align-items: center">
     Preprocessors: &nbsp
-   &nbsp&nbsp &nbsp&nbsp <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SCSS" alt="SCSS" width="20" height="20"/> SCSS
+   &nbsp&nbsp &nbsp&nbsp  &nbsp&nbsp  &nbsp&nbsp <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SCSS" alt="SCSS" width="20" height="20"/> SCSS
   </div>
    
   <div style="display: flex; align-items: center">
     CSS framework: &nbsp
-   &nbsp&nbsp &nbsp&nbsp <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="20" height="20"/> Tailwind
+   &nbsp&nbsp &nbsp&nbsp  &nbsp&nbsp  &nbsp&nbsp <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="20" height="20"/> Tailwind
   </div>
   
   <div style="display: flex; align-items: center">
