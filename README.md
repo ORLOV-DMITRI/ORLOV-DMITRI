@@ -14,6 +14,7 @@
 <img src="/img/tanstack.png" title="Tanstack Query" alt="Tanstack Query" width="20" height="20"/> TanStack-Query
 <img src="/img/formik.png" title="Tanstack Query" alt="Tanstack Query" width="20" height="20"/> Formik
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tanstack Query" alt="Tanstack Query" width="20" height="20"/> Tailwind
+<img src="/img/shad.png" title="Tanstack Query" alt="Tanstack Query" width="20" height="20"/> Shadcn 
 
 
 
