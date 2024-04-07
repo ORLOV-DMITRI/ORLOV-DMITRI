@@ -12,9 +12,9 @@
 <img src="https://vitejs.dev/logo.svg" title="Vite" alt="Vite" width="20" height="20"/> Vite
 <img src="/img/express.png" title="Express.js" alt="Express.js" width="20" height="20"/> Express.js
 <img src="/img/tanstack.png" title="Tanstack Query" alt="Tanstack Query" width="20" height="20"/> TanStack-Query
-<img src="/img/formik.png" title="Tanstack Query" alt="Tanstack Query" width="20" height="20"/> Formik
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tanstack Query" alt="Tanstack Query" width="20" height="20"/> Tailwind
-<img src="/img/shad.png" title="Tanstack Query" alt="Tanstack Query" width="20" height="20"/> Shadcn 
+<img src="/img/formik.png" title="Formik" alt="Formik" width="20" height="20"/> Formik
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="20" height="20"/> Tailwind
+<img src="/img/shad.png" title="Shadcn" alt="Shadcn" width="20" height="20"/> Shadcn 
 
 
 
