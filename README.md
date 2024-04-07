@@ -18,24 +18,24 @@ JavaScript framework
   
   <div style="display: flex; align-items: center">
       JavaScript libraries: &nbsp
-  &nbsp &nbsp  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="20" height="20"/> React &nbsp | &nbsp
+  &nbsp &nbsp &nbsp  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="20" height="20"/> React &nbsp | &nbsp
     <img src="/img/tanstack.png" title="Tanstack Query" alt="Tanstack Query" width="20" height="20"/> TanStack-Query &nbsp | &nbsp
     <img src="/img/formik.png" title="Formik" alt="Formik" width="20" height="20"/> Formik &nbsp | &nbsp
   </div>
   
   <div style="display: flex; align-items: center">
     Preprocessors: &nbsp
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SCSS" alt="SCSS" width="20" height="20"/> SCSS
+   &nbsp&nbsp <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SCSS" alt="SCSS" width="20" height="20"/> SCSS
   </div>
    
   <div style="display: flex; align-items: center">
     CSS framework: &nbsp
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="20" height="20"/> Tailwind
+   &nbsp&nbsp <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="20" height="20"/> Tailwind
   </div>
   
   <div style="display: flex; align-items: center">
    UI Component library: &nbsp
-  <img src="/img/shad.png" title="Shadcn" alt="Shadcn" width="20" height="20"/> Shadcn   </div>
+ &nbsp&nbsp  <img src="/img/shad.png" title="Shadcn" alt="Shadcn" width="20" height="20"/> Shadcn   </div>
 </div>
 
 <div style="display: flex; align-items: center">
