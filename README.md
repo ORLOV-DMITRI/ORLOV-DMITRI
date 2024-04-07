@@ -18,9 +18,9 @@ JavaScript framework
   
   <div style="display: flex; align-items: center">
       JavaScript libraries: &nbsp
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="20" height="20"/> React 
-    <img src="/img/tanstack.png" title="Tanstack Query" alt="Tanstack Query" width="20" height="20"/> TanStack-Query
-    <img src="/img/formik.png" title="Formik" alt="Formik" width="20" height="20"/> Formik
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="20" height="20"/> React &nbsp | &nbsp
+    <img src="/img/tanstack.png" title="Tanstack Query" alt="Tanstack Query" width="20" height="20"/> TanStack-Query &nbsp | &nbsp
+    <img src="/img/formik.png" title="Formik" alt="Formik" width="20" height="20"/> Formik &nbsp | &nbsp
   </div>
   
   <div style="display: flex; align-items: center">
