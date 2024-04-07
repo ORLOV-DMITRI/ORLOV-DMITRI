@@ -40,7 +40,7 @@ JavaScript framework
 
 <div style="display: flex; align-items: center">
    Collectors (bundlers): &nbsp
- &nbsp&nbsp  <img src="https://vitejs.dev/logo.svg" title="Vite" alt="Vite" width="20" height="20"/> Vite
+ &nbsp&nbsp &nbsp  <img src="https://vitejs.dev/logo.svg" title="Vite" alt="Vite" width="20" height="20"/> Vite
   <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" title="gulp" alt="gulp" width="20" height="20"/> Gulp 
 </div>
 
