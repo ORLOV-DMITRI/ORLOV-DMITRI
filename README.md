@@ -25,7 +25,7 @@ JavaScript framework
   
   <div style="display: flex; align-items: center">
     Preprocessors: &nbsp
-   &nbsp&nbsp &nbsp&nbsp  &nbsp&nbsp  &nbsp&nbsp <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SCSS" alt="SCSS" width="20" height="20"/> SCSS
+   &nbsp&nbsp &nbsp&nbsp  &nbsp&nbsp  &nbsp&nbsp  &nbsp&nbsp <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SCSS" alt="SCSS" width="20" height="20"/> SCSS
   </div>
    
   <div style="display: flex; align-items: center">
@@ -40,13 +40,13 @@ JavaScript framework
 
 <div style="display: flex; align-items: center">
    Collectors (bundlers): &nbsp
-  <img src="https://vitejs.dev/logo.svg" title="Vite" alt="Vite" width="20" height="20"/> Vite
+ &nbsp&nbsp  <img src="https://vitejs.dev/logo.svg" title="Vite" alt="Vite" width="20" height="20"/> Vite
   <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" title="gulp" alt="gulp" width="20" height="20"/> Gulp 
 </div>
 
 <div style="display: flex; align-items: center">
    Backend (bundlers): &nbsp
-  <img src="/img/express.png" title="Express.js" alt="Express.js" width="20" height="20"/> Express.js
+  &nbsp&nbsp <img src="/img/express.png" title="Express.js" alt="Express.js" width="20" height="20"/> Express.js
 </div>
 
 
