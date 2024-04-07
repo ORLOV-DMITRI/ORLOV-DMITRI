@@ -15,6 +15,7 @@
 <img src="/img/formik.png" title="Formik" alt="Formik" width="20" height="20"/> Formik
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="20" height="20"/> Tailwind
 <img src="/img/shad.png" title="Shadcn" alt="Shadcn" width="20" height="20"/> Shadcn 
+<img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" title="gulp" alt="gulp" width="20" height="20"/> Gulp 
 
 
 
