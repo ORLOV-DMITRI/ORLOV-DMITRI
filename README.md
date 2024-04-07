@@ -5,13 +5,13 @@
 
 <div style="display: flex;">
 <div style="display: flex; align-items: center">
-  Основные технологии: 
+  Основные технологии: &nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="20" height="20"/> HTML &nbsp | &nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS" alt="CSS" width="20" height="20"/> CSS &nbsp | &nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="20" height="20"/> JavaScript
 </div>
 <div style="display: flex; align-items: center">
-  Препроцессоры: 
+  Препроцессоры: &nbsp
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SCSS" alt="SCSS" width="20" height="20"/> SCSS
 </div>
 </div>
