@@ -6,6 +6,7 @@
 - React, Tailwind - [Zoom Clone](https://zoom-clone-eta.vercel.app/)
 - NextJs, ExpressJs, TanstackQuery -  [Cost Management](https://finance-client-gamma.vercel.app/)
 - HTML, CSS animation - [Deep Scroll](https://orlov-dmitri.github.io/css-deep-scroll/)
+- React - [Typing Practice Application](https://typing-simulator-iota.vercel.app/)
 
 
 
