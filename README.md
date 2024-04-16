@@ -55,7 +55,7 @@
 </div>
 
 <div style="display: flex; align-items: center">
-   Backend (bundlers): &nbsp
+   Backend: &nbsp
   &nbsp &nbsp <img src="/img/express.png" title="Express.js" alt="Express.js" width="20" height="20"/> Express.js
 </div>
 
