@@ -2,11 +2,11 @@
 <div>Я Frontend-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></div>
 
 ### Примеры работ 
-- React, Tailwind - [Zoom Clone](https://zoom-clone-eta.vercel.app/) | [Репозиторий](https://github.com/ORLOV-DMITRI/employee-client)
-- NextJs, ExpressJs, TanstackQuery -  [Cost Management](https://finance-client-gamma.vercel.app/)
-- React, ExpressJs, Redux - [Employee Management](https://employee-client-946bu6mwb-orlovwebdevgmailcoms-projects.vercel.app/login)
-- HTML, CSS animation - [Deep Scroll](https://orlov-dmitri.github.io/css-deep-scroll/)
-- React - [Typing Practice Application](https://typing-simulator-iota.vercel.app/)
+- React, Tailwind - [Zoom Clone](https://zoom-clone-eta.vercel.app/) | [Репозиторий](https://github.com/ORLOV-DMITRI/zoom_clone)
+- NextJs, ExpressJs, TanstackQuery -  [Cost Management](https://finance-client-gamma.vercel.app/) | [Репозиторий](https://github.com/ORLOV-DMITRI/financeClient)
+- React, ExpressJs, Redux - [Employee Management](https://employee-client-946bu6mwb-orlovwebdevgmailcoms-projects.vercel.app/login) | [Репозиторий](https://github.com/ORLOV-DMITRI/employee-client)
+- HTML, CSS animation - [Deep Scroll](https://orlov-dmitri.github.io/css-deep-scroll/) | [Репозиторий](https://github.com/ORLOV-DMITRI/css-deep-scroll)
+- React - [Typing Practice Application](https://typing-simulator-iota.vercel.app/) | [Репозиторий](https://github.com/ORLOV-DMITRI/Typing-simulator)
 
 
 
