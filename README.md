@@ -1,7 +1,7 @@
 
-<div> I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></div>
+<div>Я Frontend-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></div>
 
-### Work examples 
+### Примеры работ 
 
 - React, Tailwind - [Zoom Clone](https://zoom-clone-eta.vercel.app/)
 - NextJs, ExpressJs, TanstackQuery -  [Cost Management](https://finance-client-gamma.vercel.app/)
@@ -11,7 +11,7 @@
 
 
 
-### Technologies Used:
+### Используемые технологии:
 
 <div style="display: flex;">
   <div style="display: flex; align-items: center">
