@@ -2,7 +2,7 @@
 <div>Я Frontend-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></div>
 
 ### Примеры работ 
-- React, Tailwind - [Zoom Clone](https://zoom-clone-eta.vercel.app/)
+- React, Tailwind - [Zoom Clone](https://zoom-clone-eta.vercel.app/) | [Репозиторий](https://github.com/ORLOV-DMITRI/employee-client)
 - NextJs, ExpressJs, TanstackQuery -  [Cost Management](https://finance-client-gamma.vercel.app/)
 - React, ExpressJs, Redux - [Employee Management](https://employee-client-946bu6mwb-orlovwebdevgmailcoms-projects.vercel.app/login)
 - HTML, CSS animation - [Deep Scroll](https://orlov-dmitri.github.io/css-deep-scroll/)
