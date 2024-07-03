@@ -10,6 +10,7 @@
 
 ## Средние проекты
 - [Employee Management](https://employee-client-946bu6mwb-orlovwebdevgmailcoms-projects.vercel.app/login) | [Репозиторий](https://github.com/ORLOV-DMITRI/employee-client) - React, ExpressJs, Redux
+- [NoTab](https://orlov-dmitri.github.io/NoTab-responsive-layout/) | [Репозиторий](https://github.com/ORLOV-DMITRI/NoTab-responsive-layout) - HTML, SCSS
 
 ## Простые проекты
 - [Deep Scroll](https://orlov-dmitri.github.io/css-deep-scroll/) | [Репозиторий](https://github.com/ORLOV-DMITRI/css-deep-scroll) - HTML, CSS animation
