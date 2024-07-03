@@ -3,6 +3,7 @@
 
 ### Примеры работ 
 - React, Tailwind - [Zoom Clone](https://zoom-clone-eta.vercel.app/) | [Репозиторий](https://github.com/ORLOV-DMITRI/zoom_clone)
+- NextJs, TanstackQuery, Prisma, Api Routes - [Xdoc](https://xdoc-lake.vercel.app/) | [Репозиторий](https://github.com/ORLOV-DMITRI/xdoc)
 - NextJs, ExpressJs, TanstackQuery -  [Cost Management](https://finance-client-gamma.vercel.app/) | [Репозиторий](https://github.com/ORLOV-DMITRI/financeClient)
 - React, ExpressJs, Redux - [Employee Management](https://employee-client-946bu6mwb-orlovwebdevgmailcoms-projects.vercel.app/login) | [Репозиторий](https://github.com/ORLOV-DMITRI/employee-client)
 - HTML, CSS animation - [Deep Scroll](https://orlov-dmitri.github.io/css-deep-scroll/) | [Репозиторий](https://github.com/ORLOV-DMITRI/css-deep-scroll)
