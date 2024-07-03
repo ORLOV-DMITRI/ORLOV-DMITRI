@@ -17,6 +17,7 @@
 - [Typing Practice Application](https://typing-simulator-iota.vercel.app/) | [Репозиторий](https://github.com/ORLOV-DMITRI/Typing-simulator) - React
 - [TodoList](https://github.com/ORLOV-DMITRI/kanban-todo) | [Репозиторий](https://github.com/ORLOV-DMITRI/kanban-todo) - React
 - [TodoList*](https://orlov-dmitri.github.io/Todo-Redux-Typescript/) | [Репозиторий](https://github.com/ORLOV-DMITRI/Todo-Redux-Typescript) - React, Redux, React Hook Form,  Redux Persist
+- [Учет Расходов](https://orlov-dmitri.github.io/FirstReact-Cost/) - React
 
 
 ### Используемые технологии:
