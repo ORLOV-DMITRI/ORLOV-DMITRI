@@ -31,7 +31,7 @@
     <img src="/img/tanstack.png" title="Tanstack Query" alt="Tanstack Query" width="20" height="20"/> TanStack-Query &nbsp | &nbsp
     <img src="/img/formik.png" title="Formik" alt="Formik" width="20" height="20"/> Formik &nbsp | &nbsp
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SCSS" alt="SCSS" width="20" height="20"/> SCSS &nbsp | &nbsp
-   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="20" height="20"/> Tailwind &nbsp | &nbsp
+   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="20" height="20"/> Tailwind &nbsp &nbsp
    <img src="/img/shad.png" title="Shadcn" alt="Shadcn" width="20" height="20"/> Shadcn &nbsp | &nbsp  &nbsp
    <img src="https://vitejs.dev/logo.svg" title="Vite" alt="Vite" width="20" height="20"/> Vite &nbsp | &nbsp
    <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" title="gulp" alt="gulp" width="20" height="20"/> Gulp &nbsp | &nbsp
