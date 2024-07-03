@@ -14,7 +14,8 @@
 ## Простые проекты
 - [Deep Scroll](https://orlov-dmitri.github.io/css-deep-scroll/) | [Репозиторий](https://github.com/ORLOV-DMITRI/css-deep-scroll) - HTML, CSS animation
 - [Typing Practice Application](https://typing-simulator-iota.vercel.app/) | [Репозиторий](https://github.com/ORLOV-DMITRI/Typing-simulator) - React
-
+- [TodoList](https://github.com/ORLOV-DMITRI/kanban-todo) | [Репозиторий](https://github.com/ORLOV-DMITRI/kanban-todo) - React
+- [TodoList*](https://orlov-dmitri.github.io/Todo-Redux-Typescript/) | [Репозиторий](https://github.com/ORLOV-DMITRI/Todo-Redux-Typescript) - React, Redux, React Hook Form,  Redux Persist
 
 
 ### Используемые технологии:
