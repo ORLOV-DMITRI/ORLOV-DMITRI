@@ -11,7 +11,7 @@
 ## Средние проекты
 - [Employee Management](https://employee-client-946bu6mwb-orlovwebdevgmailcoms-projects.vercel.app/login) | [Репозиторий](https://github.com/ORLOV-DMITRI/employee-client) - React, ExpressJs, Redux
 - [NoTab](https://orlov-dmitri.github.io/NoTab-responsive-layout/) | [Репозиторий](https://github.com/ORLOV-DMITRI/NoTab-responsive-layout) - HTML, SCSS
-
+- [Market](https://nextjs-marketplace-redux.vercel.app/) | [Репозиторий](https://github.com/ORLOV-DMITRI/nextjs-marketplace-redux) - React, Redux
 ## Простые проекты
 - [Deep Scroll](https://orlov-dmitri.github.io/css-deep-scroll/) | [Репозиторий](https://github.com/ORLOV-DMITRI/css-deep-scroll) - HTML, CSS animation
 - [Typing Practice Application](https://typing-simulator-iota.vercel.app/) | [Репозиторий](https://github.com/ORLOV-DMITRI/Typing-simulator) - React
