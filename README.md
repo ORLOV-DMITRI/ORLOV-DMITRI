@@ -2,13 +2,15 @@
 <div>Я Frontend-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></div>
 
 ### Примеры работ 
-- React, Tailwind - [Zoom Clone](https://zoom-clone-eta.vercel.app/) | [Репозиторий](https://github.com/ORLOV-DMITRI/zoom_clone)
-- NextJs, TanstackQuery, Prisma, Api Routes - [Xdoc](https://xdoc-lake.vercel.app/) | [Репозиторий](https://github.com/ORLOV-DMITRI/xdoc)
-- NextJs, ExpressJs, TanstackQuery -  [Cost Management](https://finance-client-gamma.vercel.app/) | [Репозиторий](https://github.com/ORLOV-DMITRI/financeClient)
-- React, ExpressJs, Redux - [Employee Management](https://employee-client-946bu6mwb-orlovwebdevgmailcoms-projects.vercel.app/login) | [Репозиторий](https://github.com/ORLOV-DMITRI/employee-client)
-- HTML, CSS animation - [Deep Scroll](https://orlov-dmitri.github.io/css-deep-scroll/) | [Репозиторий](https://github.com/ORLOV-DMITRI/css-deep-scroll)
-- React - [Typing Practice Application](https://typing-simulator-iota.vercel.app/) | [Репозиторий](https://github.com/ORLOV-DMITRI/Typing-simulator)
 
+## Больше проекты
+- [Zoom Clone](https://zoom-clone-eta.vercel.app/) | [Репозиторий](https://github.com/ORLOV-DMITRI/zoom_clone) - React, Tailwind - 
+- [Xdoc](https://xdoc-lake.vercel.app/) | [Репозиторий](https://github.com/ORLOV-DMITRI/xdoc) - NextJs, TanstackQuery, Prisma, Api Routes 
+- [Cost Management](https://finance-client-gamma.vercel.app/) | [Репозиторий](https://github.com/ORLOV-DMITRI/financeClient) - NextJs, ExpressJs, TanstackQuery
+- [Employee Management](https://employee-client-946bu6mwb-orlovwebdevgmailcoms-projects.vercel.app/login) | [Репозиторий](https://github.com/ORLOV-DMITRI/employee-client) - React, ExpressJs, Redux
+# Учебные проекты
+- [Deep Scroll](https://orlov-dmitri.github.io/css-deep-scroll/) | [Репозиторий](https://github.com/ORLOV-DMITRI/css-deep-scroll) - HTML, CSS animation
+- [Typing Practice Application](https://typing-simulator-iota.vercel.app/) | [Репозиторий](https://github.com/ORLOV-DMITRI/Typing-simulator) - React
 
 
 
