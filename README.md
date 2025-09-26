@@ -4,9 +4,9 @@
 ## Примеры работ
 
 ### Умные заметки
-- 25.09.2025 [TaskFlow](https://todo.dmitri-server.ru/) | [Репозиторий](https://github.com/ORLOV-DMITRI/todo-frontend) - NextJs, TanstackQuery, Express JS, SCSS, TypeScript
+- [TaskFlow](https://todo.dmitri-server.ru/) | [Репозиторий](https://github.com/ORLOV-DMITRI/todo-frontend) - NextJs, TanstackQuery, Express JS, SCSS, TypeScript (25.09.2025)
 ### Современный маркетплейс
-- 20.11.2024 [Popnuts Market](https://popnuts.dmitri-server.ru/) | [Репозиторий](https://github.com/ORLOV-DMITRI/tz) - NextJs, TanstackQuery, Express JS, SCSS, TypeScript
+- [Popnuts Market](https://popnuts.dmitri-server.ru/) | [Репозиторий](https://github.com/ORLOV-DMITRI/tz) - NextJs, TanstackQuery, Express JS, SCSS, TypeScript (20.11.2024)
 ### Хранение и обмен сниппетами кода
 - [Xdoc](https://xdoc-lake.vercel.app/) | [Репозиторий](https://github.com/ORLOV-DMITRI/xdoc) - NextJs, TanstackQuery, Prisma, Api Routes
 ### Учет расходов и доходов
