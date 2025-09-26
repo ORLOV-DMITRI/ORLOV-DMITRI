@@ -1,10 +1,11 @@
 
 <div>Я Frontend-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></div>
 
-### Примеры работ
+## Примеры работ
 
-## Больше проекты
+### TODO App - Умные заметки
 - 25.09.2025 [TaskFlow](https://todo.dmitri-server.ru/) | [Репозиторий](https://github.com/ORLOV-DMITRI/todo-frontend) - NextJs, TanstackQuery, Express JS, SCSS, TypeScript
+### Market App - Современный маркетплейс
 - 20.11.2024 [Popnuts Market](https://popnuts.dmitri-server.ru/) | [Репозиторий](https://github.com/ORLOV-DMITRI/tz) - NextJs, TanstackQuery, Express JS, SCSS, TypeScript
 
 - [Xdoc](https://xdoc-lake.vercel.app/) | [Репозиторий](https://github.com/ORLOV-DMITRI/xdoc) - NextJs, TanstackQuery, Prisma, Api Routes 
