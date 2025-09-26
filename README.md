@@ -1,7 +1,7 @@
 
 <div>Я Frontend-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></div>
 
-## Примеры работ
+## Примеры работ ( не коммерческие )
 
 ### Умные заметки
 - [TaskFlow](https://todo.dmitri-server.ru/) | [Репозиторий](https://github.com/ORLOV-DMITRI/todo-frontend) - NextJs, TanstackQuery, Express JS, SCSS, TypeScript (25.09.2025)
