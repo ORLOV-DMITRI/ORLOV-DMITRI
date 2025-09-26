@@ -3,14 +3,18 @@
 
 ## Примеры работ ( не коммерческие )
 
-### Умные заметки
+### Умные заметки - https://todo.dmitri-server.ru/
 - [TaskFlow](https://todo.dmitri-server.ru/) | [Репозиторий](https://github.com/ORLOV-DMITRI/todo-frontend) - NextJs, TanstackQuery, Express JS, SCSS, TypeScript (25.09.2025)
-### Современный маркетплейс
+
+### Современный маркетплейс - https://popnuts.dmitri-server.ru/
 - [Popnuts Market](https://popnuts.dmitri-server.ru/) | [Репозиторий](https://github.com/ORLOV-DMITRI/tz) - NextJs, TanstackQuery, Express JS, SCSS, TypeScript (20.11.2024)
+
+### Учет расходов и доходов - https://finance.dmitri-server.ru/
+- [Cost Management](https://finance.dmitri-server.ru/) | [Репозиторий](https://github.com/ORLOV-DMITRI/financeClient) - NextJs, ExpressJs, TanstackQuery
+
 ### Хранение и обмен сниппетами кода
 - [Xdoc](https://xdoc-lake.vercel.app/) | [Репозиторий](https://github.com/ORLOV-DMITRI/xdoc) - NextJs, TanstackQuery, Prisma, Api Routes
-### Учет расходов и доходов
-- [Cost Management](https://finance-client-gamma.vercel.app/) | [Репозиторий](https://github.com/ORLOV-DMITRI/financeClient) - NextJs, ExpressJs, TanstackQuery
+
 ### Клон известного Zoom
 - [Zoom Clone](https://zoom-clone-eta.vercel.app/) | [Репозиторий](https://github.com/ORLOV-DMITRI/zoom_clone) - React, Tailwind
 ###
