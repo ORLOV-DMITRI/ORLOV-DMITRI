@@ -21,9 +21,12 @@
 ### Красивая верстка 
 - [NoTab](https://orlov-dmitri.github.io/NoTab-responsive-layout/) | [Репозиторий](https://github.com/ORLOV-DMITRI/NoTab-responsive-layout) - HTML, SCSS
 
+## Простые проекты
+- [Typing Practice Application](https://typing-simulator-iota.vercel.app/) | [Репозиторий](https://github.com/ORLOV-DMITRI/Typing-simulator) - React
+- [TodoList*](https://orlov-dmitri.github.io/Todo-Redux-Typescript/) | [Репозиторий](https://github.com/ORLOV-DMITRI/Todo-Redux-Typescript) - React, Redux, React Hook Form,  Redux Persist
+
 
 ### Используемые технологии:
-
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;&nbsp;
