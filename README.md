@@ -1,7 +1,7 @@
 
 <div>Я Frontend-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></div>
 
-## Примеры работ ( не коммерческие )
+## Примеры работ
 
 ### Умные заметки - https://todo.dmitri-server.ru/
 - [TaskFlow](https://todo.dmitri-server.ru/) | [Репозиторий](https://github.com/ORLOV-DMITRI/todo-frontend) - NextJs, TanstackQuery, Express JS, SCSS, TypeScript (25.09.2025)
@@ -17,18 +17,9 @@
 
 ### Клон известного Zoom
 - [Zoom Clone](https://zoom-clone-eta.vercel.app/) | [Репозиторий](https://github.com/ORLOV-DMITRI/zoom_clone) - React, Tailwind
-###
-
-## Средние проекты
-- [Employee Management](https://employee-client-946bu6mwb-orlovwebdevgmailcoms-projects.vercel.app/login) | [Репозиторий](https://github.com/ORLOV-DMITRI/employee-client) - React, ExpressJs, Redux
+  
+### Красивая верстка 
 - [NoTab](https://orlov-dmitri.github.io/NoTab-responsive-layout/) | [Репозиторий](https://github.com/ORLOV-DMITRI/NoTab-responsive-layout) - HTML, SCSS
-- [Market](https://nextjs-marketplace-redux.vercel.app/) | [Репозиторий](https://github.com/ORLOV-DMITRI/nextjs-marketplace-redux) - React, Redux
-## Простые проекты
-- [Deep Scroll](https://orlov-dmitri.github.io/css-deep-scroll/) | [Репозиторий](https://github.com/ORLOV-DMITRI/css-deep-scroll) - HTML, CSS animation
-- [Typing Practice Application](https://typing-simulator-iota.vercel.app/) | [Репозиторий](https://github.com/ORLOV-DMITRI/Typing-simulator) - React
-- [TodoList](https://github.com/ORLOV-DMITRI/kanban-todo) | [Репозиторий](https://github.com/ORLOV-DMITRI/kanban-todo) - React
-- [TodoList*](https://orlov-dmitri.github.io/Todo-Redux-Typescript/) | [Репозиторий](https://github.com/ORLOV-DMITRI/Todo-Redux-Typescript) - React, Redux, React Hook Form,  Redux Persist
-- [Учет Расходов](https://orlov-dmitri.github.io/FirstReact-Cost/) - React
 
 
 ### Используемые технологии:
