@@ -3,24 +3,29 @@
 
 ## Примеры работ
 
-### Умные заметки - https://todo.dmitri-server.ru/
-- [TaskFlow](https://todo.dmitri-server.ru/) | [Репозиторий](https://github.com/ORLOV-DMITRI/todo-frontend) - NextJs, TanstackQuery, Express JS, SCSS, TypeScript (25.09.2025)
+### Умные заметки
+- [TaskFlow](https://todo.dmitri-server.ru/) | [Репозиторий](https://github.com/ORLOV-DMITRI/todo-frontend)
+- NextJs, TanstackQuery, Express JS, SCSS, TypeScript (25.09.2025)
 
-### Современный маркетплейс - https://popnuts.dmitri-server.ru/
-- [Popnuts Market](https://popnuts.dmitri-server.ru/) | [Репозиторий](https://github.com/ORLOV-DMITRI/tz) - NextJs, TanstackQuery, Express JS, SCSS, TypeScript (20.11.2024)
+### Современный маркетплейс
+- [Popnuts Market](https://popnuts.dmitri-server.ru/) | [Репозиторий](https://github.com/ORLOV-DMITRI/tz)
+- NextJs, TanstackQuery, Express JS, SCSS, TypeScript (20.11.2024)
 
-### Учет расходов и доходов - https://finance.dmitri-server.ru/
-- [Cost Management](https://finance.dmitri-server.ru/) | [Репозиторий](https://github.com/ORLOV-DMITRI/financeClient) - NextJs, ExpressJs, TanstackQuery
+### Учет расходов и доходов
+- [Cost Management](https://finance.dmitri-server.ru/) | [Репозиторий](https://github.com/ORLOV-DMITRI/financeClient)
+- NextJs, ExpressJs, TanstackQuery
 
-### Хранение и обмен сниппетами кода - https://xdoc.dmitri-server.ru/
-- [Xdoc](https://xdoc-lake.vercel.app/) | [Репозиторий](https://github.com/ORLOV-DMITRI/xdoc) - NextJs, TanstackQuery, Prisma, Api Routes
+### Хранение и обмен сниппетами кода
+- [Xdoc](https://xdoc-lake.vercel.app/) | [Репозиторий](https://github.com/ORLOV-DMITRI/xdoc)
+- NextJs, TanstackQuery, Prisma, Api Routes
 
-### Клон известного Zoom - https://loom.dmitri-server.ru/
+### Клон известного Zoom
 - [Zoom Clone](https://zoom-clone-eta.vercel.app/) | [Репозиторий](https://github.com/ORLOV-DMITRI/zoom_clone) - React, Tailwind
   
 ### Красивая верстка 
-- [NoTab](https://orlov-dmitri.github.io/NoTab-responsive-layout/) | [Репозиторий](https://github.com/ORLOV-DMITRI/NoTab-responsive-layout) - HTML, SCSS
-
+- [NoTab](https://orlov-dmitri.github.io/NoTab-responsive-layout/) | [Репозиторий](https://github.com/ORLOV-DMITRI/NoTab-responsive-layout)
+- HTML, SCSS
+- 
 ## Простые проекты
 - [Typing Practice Application](https://typing-simulator-iota.vercel.app/) | [Репозиторий](https://github.com/ORLOV-DMITRI/Typing-simulator) - React
 - [TodoList*](https://orlov-dmitri.github.io/Todo-Redux-Typescript/) | [Репозиторий](https://github.com/ORLOV-DMITRI/Todo-Redux-Typescript) - React, Redux, React Hook Form,  Redux Persist
