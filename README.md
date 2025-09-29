@@ -1,5 +1,13 @@
 
-<div>Я Frontend-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></div>
+# Дмитрий Орлов
+**Frontend-разработчик (React/Next.js)**
+
+Middle разработчик с 2+ годами коммерческого опыта. Специализируюсь на создании современных веб-приложений с использованием React, Next.js, TypeScript.
+
+**Коммерческие проекты:** [nazvezdu.ru](https://nazvezdu.ru) | [fermastudio.com](https://fermastudio.com)  
+**Контакты:** [Telegram](https://t.me/orlovwebdev) | [Email](mailto:dmitri.orlov.anatolevich@gmail.com)
+
+---
 
 ## Примеры работ
 
