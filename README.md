@@ -12,10 +12,10 @@
 ### Учет расходов и доходов - https://finance.dmitri-server.ru/
 - [Cost Management](https://finance.dmitri-server.ru/) | [Репозиторий](https://github.com/ORLOV-DMITRI/financeClient) - NextJs, ExpressJs, TanstackQuery
 
-### Хранение и обмен сниппетами кода
+### Хранение и обмен сниппетами кода - https://xdoc.dmitri-server.ru/
 - [Xdoc](https://xdoc-lake.vercel.app/) | [Репозиторий](https://github.com/ORLOV-DMITRI/xdoc) - NextJs, TanstackQuery, Prisma, Api Routes
 
-### Клон известного Zoom
+### Клон известного Zoom - https://loom.dmitri-server.ru/
 - [Zoom Clone](https://zoom-clone-eta.vercel.app/) | [Репозиторий](https://github.com/ORLOV-DMITRI/zoom_clone) - React, Tailwind
   
 ### Красивая верстка 
