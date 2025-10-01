@@ -11,7 +11,7 @@ Middle разработчик с 2+ годами коммерческого оп
 
 ## Примеры работ
 
-### Фото будка
+### Фотобудка для мероприятий
 - [Photo](https://photo.dmitri-server.ru/) | [Репозиторий](https://github.com/ORLOV-DMITRI/photo-frontend)
 - NextJs, TanstackQuery, Express JS, SCSS, TypeScript 
 
@@ -38,10 +38,6 @@ Middle разработчик с 2+ годами коммерческого оп
 ### Красивая верстка 
 - [NoTab](https://orlov-dmitri.github.io/NoTab-responsive-layout/) | [Репозиторий](https://github.com/ORLOV-DMITRI/NoTab-responsive-layout)
 - HTML, SCSS
-  
-## Простые проекты
-- [Typing Practice Application](https://typing-simulator-iota.vercel.app/) | [Репозиторий](https://github.com/ORLOV-DMITRI/Typing-simulator) - React
-- [TodoList*](https://orlov-dmitri.github.io/Todo-Redux-Typescript/) | [Репозиторий](https://github.com/ORLOV-DMITRI/Todo-Redux-Typescript) - React, Redux, React Hook Form,  Redux Persist
 
 
 ### Используемые технологии:
