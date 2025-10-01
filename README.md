@@ -32,7 +32,7 @@ Middle разработчик с 2+ годами коммерческого оп
 - NextJs, TanstackQuery, Prisma, Api Routes
 
 ### Клон известного Zoom
-- [Zoom Clone](https://zoom-clone-eta.vercel.app/) | [Репозиторий](https://github.com/ORLOV-DMITRI/zoom_clone)
+- [Zoom Clone](https://loom.dmitri-server.ru/) | [Репозиторий](https://github.com/ORLOV-DMITRI/zoom_clone)
 - React, Tailwind
   
 ### Красивая верстка 
