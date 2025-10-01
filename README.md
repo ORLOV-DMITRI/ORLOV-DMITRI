@@ -11,13 +11,17 @@ Middle разработчик с 2+ годами коммерческого оп
 
 ## Примеры работ
 
+### Фото будка
+- [Photo](https://photo.dmitri-server.ru/) | [Репозиторий](https://github.com/ORLOV-DMITRI/photo-frontend)
+- NextJs, TanstackQuery, Express JS, SCSS, TypeScript 
+
 ### Умные заметки
 - [TaskFlow](https://todo.dmitri-server.ru/) | [Репозиторий](https://github.com/ORLOV-DMITRI/todo-frontend)
-- NextJs, TanstackQuery, Express JS, SCSS, TypeScript (25.09.2025)
+- NextJs, TanstackQuery, Express JS, SCSS, TypeScript 
 
 ### Современный маркетплейс
 - [Popnuts Market](https://popnuts.dmitri-server.ru/) | [Репозиторий](https://github.com/ORLOV-DMITRI/tz)
-- NextJs, TanstackQuery, Express JS, SCSS, TypeScript (20.11.2024)
+- NextJs, TanstackQuery, Express JS, SCSS, TypeScript
 
 ### Учет расходов и доходов
 - [Cost Management](https://finance.dmitri-server.ru/) | [Репозиторий](https://github.com/ORLOV-DMITRI/financeClient)
