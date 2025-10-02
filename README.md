@@ -31,8 +31,8 @@ Middle разработчик с 2+ годами коммерческого оп
 - [Xdoc](https://xdoc-lake.vercel.app/) | [Репозиторий](https://github.com/ORLOV-DMITRI/xdoc)
 - NextJs, TanstackQuery, Prisma, Api Routes
 
-### Клон известного Zoom
-- [Zoom Clone](https://loom.dmitri-server.ru/) | [Репозиторий](https://github.com/ORLOV-DMITRI/zoom_clone)
+### Loom - Видеозвонки
+- [Loom](https://loom.dmitri-server.ru/) | [Репозиторий](https://github.com/ORLOV-DMITRI/zoom_clone)
 - React, Tailwind
   
 ### Красивая верстка 
