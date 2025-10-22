@@ -2,22 +2,10 @@
 # Дмитрий Орлов
 **Frontend-разработчик (React/Next.js)**
 
-Middle разработчик с 2+ годами коммерческого опыта. Специализируюсь на создании современных веб-приложений с использованием React, Next.js, TypeScript.
-
-**Коммерческие проекты:** [nazvezdu.ru](https://nazvezdu.ru) | [fermastudio.com](https://fermastudio.com)  
-**Контакты:** [Telegram](https://t.me/orlovwebdev) | [Email](mailto:dmitri.orlov.anatolevich@gmail.com)
-
 ---
 
 ## Примеры работ
 
-### Фотобудка для мероприятий
-- [Photo](https://photo.dmitri-server.ru/) | [Репозиторий](https://github.com/ORLOV-DMITRI/photo-frontend)
-- NextJs, TanstackQuery, Express JS, SCSS, TypeScript 
-
-### Умные заметки
-- [TaskFlow](https://todo.dmitri-server.ru/) | [Репозиторий](https://github.com/ORLOV-DMITRI/todo-frontend)
-- NextJs, TanstackQuery, Express JS, SCSS, TypeScript 
 
 ### Современный маркетплейс
 - [Popnuts Market](https://popnuts.dmitri-server.ru/) | [Репозиторий](https://github.com/ORLOV-DMITRI/tz)
