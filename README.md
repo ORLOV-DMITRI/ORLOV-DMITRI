@@ -6,6 +6,17 @@
 
 ## Примеры работ
 
+### Учет расходов (делал лично для себя)
+- [Coinly](https://dmitri-server.ru/coinly) | [Репозиторий](https://github.com/ORLOV-DMITRI/coinly-frontend)
+- NextJs, TanstackQuery, Express JS, SCSS, TypeScript
+
+### Умные заметки
+- [Task Flow](https://todo.dmitri-server.ru/) | [Репозиторий](https://github.com/ORLOV-DMITRI/todo-frontend)
+- NextJs, TanstackQuery, Express JS, SCSS, TypeScript
+
+### Фото Будка
+- [Photo](https://photo.dmitri-server.ru/) | [Репозиторий](https://github.com/ORLOV-DMITRI/photo-frontend)
+- NextJs, TanstackQuery, Express JS, SCSS, TypeScript
 
 ### Современный маркетплейс
 - [Popnuts Market](https://popnuts.dmitri-server.ru/) | [Репозиторий](https://github.com/ORLOV-DMITRI/tz)
@@ -23,10 +34,6 @@
 - [Loom](https://loom.dmitri-server.ru/) | [Репозиторий](https://github.com/ORLOV-DMITRI/zoom_clone)
 - React, Tailwind
   
-### Красивая верстка 
-- [NoTab](https://orlov-dmitri.github.io/NoTab-responsive-layout/) | [Репозиторий](https://github.com/ORLOV-DMITRI/NoTab-responsive-layout)
-- HTML, SCSS
-
 
 ### Используемые технологии:
 <p align="center">
