@@ -1,69 +1,140 @@
-
 # Дмитрий Орлов
-**Frontend-разработчик (React/Next.js)** <br/>
-Люблю создавать web-приложения с чистым UI и эффективной архитектурой.
-Интересует разработка сложных SPA/SSR, стекаю на TypeScript, Api routes, TanStack Query.
-Всегда открыт к новым задачам и профессиональному росту!
+**Full-Stack Developer | React/Next.js + Node.js/Express**
+
+Full-stack разработчик с 2.5+ годами коммерческого опыта и 7 полноценными проектами в портфолио.
+Специализируюсь на создании масштабируемых веб-приложений с modern stack:
+Next.js 15, React 19, TypeScript, TanStack Query на фронтенде и Express.js, Prisma на бэкенде.
+
+📍 Павлодар, Казахстан | 🌐 Remote-ready
+💼 Сейчас: Frontend Developer в Ferma Studio
+🎯 Ищу: Full-Stack позицию в продуктовой компании
 
 ---
 
-## Примеры работ
+## 🚀 Портфолио проектов
 
-### Учет расходов (делал лично для себя)
-- [Coinly](https://dmitri-server.ru/coinly) | [Репозиторий](https://github.com/ORLOV-DMITRI/coinly-frontend)
-- NextJs, TanstackQuery, Express JS, SCSS, TypeScript
+### 💰 Coinly — Система учета финансов
+[Live Demo](https://dmitri-server.ru/coinly) | [Code](https://github.com/ORLOV-DMITRI/coinly-frontend)
 
-### Умные заметки
-- [Task Flow](https://todo.dmitri-server.ru/) | [Репозиторий](https://github.com/ORLOV-DMITRI/todo-frontend)
-- NextJs, TanstackQuery, Express JS, SCSS, TypeScript
+**Что это:** Full-stack приложение для управления личными финансами с категориями, фильтрацией и аналитикой
 
-### Фото Будка
-- [Photo](https://photo.dmitri-server.ru/) | [Репозиторий](https://github.com/ORLOV-DMITRI/photo-frontend)
-- NextJs, TanstackQuery, Express JS, SCSS, TypeScript
+**Tech Stack:** Next.js 15, TanStack Query, Express.js, TypeScript, SCSS
 
-### Современный маркетплейс
-- [Popnuts Market](https://popnuts.dmitri-server.ru/) | [Репозиторий](https://github.com/ORLOV-DMITRI/tz)
-- NextJs, TanstackQuery, Express JS, SCSS, TypeScript
+**Ключевые фичи:**
+- 🔐 JWT-авторизация с refresh tokens
+- 📊 Динамическая аналитика расходов по категориям
+- 🎨 Адаптивный UI с темной темой
+- ⚡ Оптимизация: Server-Side Rendering для быстрой загрузки
 
-### Учет расходов и доходов
-- [Cost Management](https://finance.dmitri-server.ru/) | [Репозиторий](https://github.com/ORLOV-DMITRI/financeClient)
-- NextJs, ExpressJs, TanstackQuery
+---
 
-### Хранение и обмен сниппетами кода
-- [Xdoc](https://xdoc-lake.vercel.app/) | [Репозиторий](https://github.com/ORLOV-DMITRI/xdoc)
-- NextJs, TanstackQuery, Prisma, Api Routes
+### ✅ Task Flow — Умные заметки
+[Live Demo](https://todo.dmitri-server.ru/) | [Code](https://github.com/ORLOV-DMITRI/todo-frontend)
 
-### Loom - Видеозвонки
-- [Loom](https://loom.dmitri-server.ru/) | [Репозиторий](https://github.com/ORLOV-DMITRI/zoom_clone)
-- React, Tailwind
-  
+**Что это:** Task management система с приоритизацией и фильтрацией
 
-### Используемые технологии:
-<p align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="/img/tanstack.png" title="TanStack Query" alt="TanStack Query" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="/img/formik.png" title="Formik" alt="Formik" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SCSS" alt="SCSS" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="/img/shad.png" title="Shadcn" alt="Shadcn" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://vitejs.dev/logo.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" title="Gulp" alt="Gulp" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="/img/express.png" title="Express.js" alt="Express.js" width="40" height="40"/>&nbsp;&nbsp;
-</p>
+**Tech Stack:** Next.js, TanStack Query, Express.js, TypeScript
 
+**Ключевые фичи:**
+- ⚡ Real-time обновления через polling
+- 🎯 Сортировка по приоритету, дате, статусу
+- 🔄 Оптимистичные обновления для мгновенного UX
 
+---
 
+### 🛍️ Popnuts Market — Современный маркетплейс
+[Live Demo](https://popnuts.dmitri-server.ru/) | [Code](https://github.com/ORLOV-DMITRI/tz)
 
+**Что это:** E-commerce платформа с полным checkout flow
 
+**Tech Stack:** Next.js, Redux Toolkit, Express.js, TypeScript
 
+**Ключевые фичи:**
+- 🛒 Корзина с Redux Toolkit state management
+- 🔍 Поиск и фильтрация товаров
 
+---
 
+### 💻 Xdoc — Платформа для code snippets
+[Live Demo](https://xdoc-lake.vercel.app/) | [Code](https://github.com/ORLOV-DMITRI/xdoc)
 
+**Что это:** Хранение и обмен сниппетами кода с подсветкой синтаксиса
 
+**Tech Stack:** Next.js, TanStack Query, Prisma, Next.js API Routes
 
+**Ключевые фичи:**
+- 🗄️ Prisma ORM + PostgreSQL
+- 🚀 Serverless архитектура на Vercel
+- ⚡ ISR для оптимизации загрузки популярных snippets
 
+---
 
+### 📸 Photo Booth — Фото-сервис
+[Live Demo](https://photo.dmitri-server.ru/) | [Code](https://github.com/ORLOV-DMITRI/photo-frontend)
+
+**Что это:** Платформа для управления фото-заказами
+
+**Tech Stack:** Next.js, TanStack Query, Express.js, TypeScript
+
+---
+### 🎥 Loom Clone — Видеозвонки
+[Live Demo](https://loom.dmitri-server.ru/) | [Code](https://github.com/ORLOV-DMITRI/zoom_clone)
+
+**Что это:** WebRTC приложение для видеозвонков
+
+**Tech Stack:** React, Tailwind, WebRTC
+
+**Ключевые фичи:**
+- 📹 Peer-to-peer видеозвонки через WebRTC
+- 🎤 Screen sharing и аудио/видео controls
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- **Frameworks:** React 19, Next.js 15 (App Router, Server Components, SSR/SSG)
+- **State Management:** Redux Toolkit, TanStack Query, React Context
+- **Styling:** SCSS, Tailwind CSS, Shadcn UI, CSS Modules
+- **Forms:** Formik, React Hook Form
+- **Animations:** Framer Motion
+- **Build Tools:** Vite, Webpack, Gulp
+
+### Backend
+- **Runtime:** Node.js, Express.js
+- **ORM:** Prisma
+- **API:** REST API, Next.js API Routes
+- **Auth:** JWT, OAuth 2.0
+
+### Languages
+- **TypeScript** (основной)
+- **JavaScript** (ES6+)
+- **HTML5, CSS3**
+
+### Tools & DevOps
+- **Version Control:** Git, GitHub
+- **Deployment:** Vercel, VPS (nginx, PM2)
+- **Other:** Docker basics, CI/CD (GitHub Actions)
+
+---
+
+## 💼 Коммерческий опыт
+
+**Frontend Developer** @ Ferma Studio (Сентябрь 2023 — настоящее время)
+
+Разработка веб-приложений для digital-агентства на React/Next.js
+
+**Ключевые проекты:**
+- **nazvezdu.ru** — Сервис бронирования мероприятий (Next.js 15, React Admin, 50+ городов)
+- **fermastudio.com** — Корпоративный сайт с анимациями (Framer Motion, 22 страницы)
+- **E-commerce платформа** (NDA) — 500+ товаров, Redux Toolkit, checkout flow
+- **kriastak.ru** — Корпоративный сайт завода (WordPress + custom development)
+
+---
+
+## 📫 Контакты
+
+- 📧 Email: dmitri.orlov.anatolevich@gmail.com
+- 💬 Telegram: [@orlovwebdev](https://t.me/orlovwebdev)
+- 🔗 GitHub: [ORLOV-DMITRI](https://github.com/ORLOV-DMITRI)
+- 📞 Phone: +7 (747) 630-35-09
