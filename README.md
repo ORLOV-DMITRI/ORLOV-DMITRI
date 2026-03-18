@@ -13,7 +13,7 @@ Next.js 15, React 19, TypeScript, TanStack Query на фронтенде и Expr
 
 ## 🚀 Портфолио проектов
 
-### 💰 Coinly — Система учета финансов
+### Coinly — Система учета финансов
 [Live Demo](https://dmitri-server.ru/coinly) | [Code](https://github.com/ORLOV-DMITRI/coinly-frontend)
 
 **Что это:** Full-stack приложение для управления личными финансами с категориями, фильтрацией и аналитикой
@@ -21,14 +21,14 @@ Next.js 15, React 19, TypeScript, TanStack Query на фронтенде и Expr
 **Tech Stack:** Next.js 15, TanStack Query, Express.js, TypeScript, SCSS
 
 **Ключевые фичи:**
-- 🔐 JWT-авторизация с refresh tokens
-- 📊 Динамическая аналитика расходов по категориям
-- 🎨 Адаптивный UI с темной темой
-- ⚡ Оптимизация: Server-Side Rendering для быстрой загрузки
+-  JWT-авторизация с refresh tokens
+-  Динамическая аналитика расходов по категориям
+-  Адаптивный UI с темной темой
+-  Оптимизация: Server-Side Rendering для быстрой загрузки
 
 ---
 
-### ✅ Task Flow — Умные заметки
+###  Task Flow — Умные заметки
 [Live Demo](https://todo.dmitri-server.ru/) | [Code](https://github.com/ORLOV-DMITRI/todo-frontend)
 
 **Что это:** Task management система с приоритизацией и фильтрацией
@@ -36,13 +36,13 @@ Next.js 15, React 19, TypeScript, TanStack Query на фронтенде и Expr
 **Tech Stack:** Next.js, TanStack Query, Express.js, TypeScript
 
 **Ключевые фичи:**
-- ⚡ Real-time обновления через polling
-- 🎯 Сортировка по приоритету, дате, статусу
-- 🔄 Оптимистичные обновления для мгновенного UX
+-  Real-time обновления через polling
+-  Сортировка по приоритету, дате, статусу
+-  Оптимистичные обновления для мгновенного UX
 
 ---
 
-### 🛍️ Popnuts Market — Современный маркетплейс
+###  Popnuts Market — Современный маркетплейс
 [Live Demo](https://popnuts.dmitri-server.ru/) | [Code](https://github.com/ORLOV-DMITRI/tz)
 
 **Что это:** E-commerce платформа с полным checkout flow
@@ -50,12 +50,12 @@ Next.js 15, React 19, TypeScript, TanStack Query на фронтенде и Expr
 **Tech Stack:** Next.js, Redux Toolkit, Express.js, TypeScript
 
 **Ключевые фичи:**
-- 🛒 Корзина с Redux Toolkit state management
-- 🔍 Поиск и фильтрация товаров
+-  Корзина с Redux Toolkit state management
+-  Поиск и фильтрация товаров
 
 ---
 
-### 💻 Xdoc — Платформа для code snippets
+###  Xdoc — Платформа для code snippets
 [Live Demo](https://xdoc-lake.vercel.app/) | [Code](https://github.com/ORLOV-DMITRI/xdoc)
 
 **Что это:** Хранение и обмен сниппетами кода с подсветкой синтаксиса
@@ -63,9 +63,9 @@ Next.js 15, React 19, TypeScript, TanStack Query на фронтенде и Expr
 **Tech Stack:** Next.js, TanStack Query, Prisma, Next.js API Routes
 
 **Ключевые фичи:**
-- 🗄️ Prisma ORM + PostgreSQL
-- 🚀 Serverless архитектура на Vercel
-- ⚡ ISR для оптимизации загрузки популярных snippets
+-  Prisma ORM + PostgreSQL
+-  Serverless архитектура на Vercel
+-  ISR для оптимизации загрузки популярных snippets
 
 ---
 
@@ -77,7 +77,7 @@ Next.js 15, React 19, TypeScript, TanStack Query на фронтенде и Expr
 **Tech Stack:** Next.js, TanStack Query, Express.js, TypeScript
 
 ---
-### 🎥 Loom Clone — Видеозвонки
+###  Loom Clone — Видеозвонки
 [Live Demo](https://loom.dmitri-server.ru/) | [Code](https://github.com/ORLOV-DMITRI/zoom_clone)
 
 **Что это:** WebRTC приложение для видеозвонков
@@ -85,12 +85,12 @@ Next.js 15, React 19, TypeScript, TanStack Query на фронтенде и Expr
 **Tech Stack:** React, Tailwind, WebRTC
 
 **Ключевые фичи:**
-- 📹 Peer-to-peer видеозвонки через WebRTC
-- 🎤 Screen sharing и аудио/видео controls
+-  Peer-to-peer видеозвонки через WebRTC
+-  Screen sharing и аудио/видео controls
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - **Frameworks:** React 19, Next.js 15 (App Router, Server Components, SSR/SSG)
@@ -118,7 +118,7 @@ Next.js 15, React 19, TypeScript, TanStack Query на фронтенде и Expr
 
 ---
 
-## 💼 Коммерческий опыт
+##  Коммерческий опыт
 
 **Frontend Developer** @ Ferma Studio (Сентябрь 2023 — настоящее время)
 
@@ -132,9 +132,9 @@ Next.js 15, React 19, TypeScript, TanStack Query на фронтенде и Expr
 
 ---
 
-## 📫 Контакты
+##  Контакты
 
-- 📧 Email: dmitri.orlov.anatolevich@gmail.com
-- 💬 Telegram: [@orlovwebdev](https://t.me/orlovwebdev)
-- 🔗 GitHub: [ORLOV-DMITRI](https://github.com/ORLOV-DMITRI)
-- 📞 Phone: +7 (747) 630-35-09
+-  Email: dmitri.orlov.anatolevich@gmail.com
+-  Telegram: [@orlovwebdev](https://t.me/orlovwebdev)
+-  GitHub: [ORLOV-DMITRI](https://github.com/ORLOV-DMITRI)
+-  Phone: +7 (747) 630-35-09
