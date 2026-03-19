@@ -1,17 +1,14 @@
 # Дмитрий Орлов
-**Full-Stack Developer | React/Next.js + Node.js/Express**
+**Frontend Developer | React/Next.js**
 
-Full-stack разработчик с 2.5+ годами коммерческого опыта и 7 полноценными проектами в портфолио.
-Специализируюсь на создании масштабируемых веб-приложений с modern stack:
-Next.js 15, React 19, TypeScript, TanStack Query на фронтенде и Express.js, Prisma на бэкенде.
+Frontend разработчик с 2.5+ годами коммерческого опыта и 7 полноценными проектами в портфолио.
+Специализируюсь на создании масштабируемых веб-приложений:
+Next.js 15, React 19, TypeScript, TanStack Query на фронтенде
 
-📍 Павлодар, Казахстан | 🌐 Remote-ready
-💼 Сейчас: Frontend Developer в Ferma Studio
-🎯 Ищу: Full-Stack позицию в продуктовой компании
-
+Павлодар, Казахстан | Remote-ready
 ---
 
-## 🚀 Портфолио проектов
+## Портфолио проектов
 
 ### Coinly — Система учета финансов
 [Live Demo](https://dmitri-server.ru/coinly) | [Code](https://github.com/ORLOV-DMITRI/coinly-frontend)
