@@ -18,7 +18,6 @@ Next.js 15, React 19, TypeScript, TanStack Query на фронтенде
 **Tech Stack:** Next.js 15, TanStack Query, Express.js, TypeScript, SCSS
 
 **Ключевые фичи:**
--  JWT-авторизация с refresh tokens
 -  Динамическая аналитика расходов по категориям
 -  Адаптивный UI с темной темой
 -  Оптимизация: Server-Side Rendering для быстрой загрузки
@@ -33,7 +32,6 @@ Next.js 15, React 19, TypeScript, TanStack Query на фронтенде
 **Tech Stack:** Next.js, TanStack Query, Express.js, TypeScript
 
 **Ключевые фичи:**
--  Real-time обновления через polling
 -  Сортировка по приоритету, дате, статусу
 -  Оптимистичные обновления для мгновенного UX
 
@@ -62,7 +60,6 @@ Next.js 15, React 19, TypeScript, TanStack Query на фронтенде
 **Ключевые фичи:**
 -  Prisma ORM + PostgreSQL
 -  Serverless архитектура на Vercel
--  ISR для оптимизации загрузки популярных snippets
 
 ---
 
