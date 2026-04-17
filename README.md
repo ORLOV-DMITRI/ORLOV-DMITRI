@@ -8,7 +8,7 @@
 
 ---
 
-### 👨‍💻 Professional Profile
+###  Professional Profile
 I am a Software Engineer with **3+ years of commercial experience**, specializing in the **React/Next.js ecosystem**. With a background in **High-Energy Physics**, I approach development as system engineering — focusing on architecture, state management, and performance before the first line of code is written.
 
 - 🛠 **Expertise:** React 19, Next.js 15 (App Router, SSR), TypeScript, Redux Toolkit.
@@ -17,7 +17,7 @@ I am a Software Engineer with **3+ years of commercial experience**, specializin
 
 ---
 
-### 🚀 AI-Assisted Methodology
+###  AI-Assisted Methodology
 I leverage a structured workflow to accelerate delivery while maintaining 100% production stability:
 - **Architectural Spec:** Defining module logic and constraints first.
 - **Context Engineering:** Feeding LLMs with strict documentation and style guides.
@@ -25,7 +25,7 @@ I leverage a structured workflow to accelerate delivery while maintaining 100% p
 
 ---
 
-### 📁 Key Projects
+###  Key Projects
 
 #### [nazvezdu.ru — Booking Platform](https://nazvezdu.ru)
 *A high-load event booking service serving 50+ cities.*
@@ -46,7 +46,7 @@ I leverage a structured workflow to accelerate delivery while maintaining 100% p
 
 ---
 
-### 🛠 Technical Stack
+###  Technical Stack
 
 | Area | Technologies |
 | :--- | :--- |
@@ -56,7 +56,7 @@ I leverage a structured workflow to accelerate delivery while maintaining 100% p
 
 ---
 
-### 📬 Contacts
+###  Contacts
 - **Email:** dmitri.orlov.anatolevich@gmail.com
 - **Telegram:** [@orlovwebdev](https://t.me/orlovwebdev)
 - **LinkedIn:** [dmitri-orlov-dev](https://linkedin.com/in/dmitri-orlov-dev)
