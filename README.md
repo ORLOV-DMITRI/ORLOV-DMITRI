@@ -1,134 +1,62 @@
-# Дмитрий Орлов
-**Frontend Developer | React/Next.js**
+# Dmitri Orlov
+**Software Engineer | Frontend & Full-Stack | AI-Assisted Development**
 
-Frontend разработчик с 2.5+ годами коммерческого опыта и 7 полноценными проектами в портфолио.
-Специализируюсь на создании масштабируемых веб-приложений:
-Next.js 15, React 19, TypeScript, TanStack Query на фронтенде
+> *“Applying a system-level mindset rooted in High-Energy Physics to build high-performance, scalable web systems.”*
 
-Павлодар, Казахстан | Remote-ready
----
-
-## Портфолио проектов
-
-### Coinly — Система учета финансов
-[Live Demo](https://dmitri-server.ru/coinly) | [Code](https://github.com/ORLOV-DMITRI/coinly-frontend)
-
-**Что это:** Full-stack приложение для управления личными финансами с категориями, фильтрацией и аналитикой
-
-**Tech Stack:** Next.js 15, TanStack Query, Express.js, TypeScript, SCSS
-
-**Ключевые фичи:**
--  Динамическая аналитика расходов по категориям
--  Адаптивный UI с темной темой
--  Оптимизация: Server-Side Rendering для быстрой загрузки
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dmitri--Orlov-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/dmitri-orlov-dev)
+[![Telegram](https://img.shields.io/badge/Telegram-@orlovwebdev-0088cc?style=flat-square&logo=telegram)](https://t.me/orlovwebdev)
 
 ---
 
-###  Task Flow — Умные заметки
-[Live Demo](https://todo.dmitri-server.ru/) | [Code](https://github.com/ORLOV-DMITRI/todo-frontend)
+### 👨‍💻 Professional Profile
+I am a Software Engineer with **3+ years of commercial experience**, specializing in the **React/Next.js ecosystem**. With a background in **High-Energy Physics**, I approach development as system engineering — focusing on architecture, state management, and performance before the first line of code is written.
 
-**Что это:** Task management система с приоритизацией и фильтрацией
-
-**Tech Stack:** Next.js, TanStack Query, Express.js, TypeScript
-
-**Ключевые фичи:**
--  Сортировка по приоритету, дате, статусу
--  Оптимистичные обновления для мгновенного UX
+- 🛠 **Expertise:** React 19, Next.js 15 (App Router, SSR), TypeScript, Redux Toolkit.
+- ⚙️ **Full-Stack:** Designing reliable backends with Node.js, Express, and PostgreSQL.
+- 🤖 **AI-Assisted:** Pioneering high-velocity development by using AI coding agents (Claude, Qwen) as precision tools guided by strict architectural specifications.
 
 ---
 
-###  Popnuts Market — Современный маркетплейс
-[Live Demo](https://popnuts.dmitri-server.ru/) | [Code](https://github.com/ORLOV-DMITRI/tz)
-
-**Что это:** E-commerce платформа с полным checkout flow
-
-**Tech Stack:** Next.js, Redux Toolkit, Express.js, TypeScript
-
-**Ключевые фичи:**
--  Корзина с Redux Toolkit state management
--  Поиск и фильтрация товаров
+### 🚀 AI-Assisted Methodology
+I leverage a structured workflow to accelerate delivery while maintaining 100% production stability:
+- **Architectural Spec:** Defining module logic and constraints first.
+- **Context Engineering:** Feeding LLMs with strict documentation and style guides.
+- **Human-in-the-Loop:** Conducting line-by-line manual audits of all generated logic.
 
 ---
 
-###  Xdoc — Платформа для code snippets
-[Live Demo](https://xdoc-lake.vercel.app/) | [Code](https://github.com/ORLOV-DMITRI/xdoc)
+### 📁 Key Projects
 
-**Что это:** Хранение и обмен сниппетами кода с подсветкой синтаксиса
+#### [nazvezdu.ru — Booking Platform](https://nazvezdu.ru)
+*A high-load event booking service serving 50+ cities.*
+- **Role:** Frontend Lead / Architect.
+- **Solution:** Engineered the client-side on Next.js 15 with custom SSR for instant SEO-friendly loads and a zero-reload city localization system.
 
-**Tech Stack:** Next.js, TanStack Query, Prisma, Next.js API Routes
+#### [Coinly — Full-Stack Finance Tracker](https://dmitri-server.ru/coinly)
+*An end-to-end system for personal expense management.*
+- **Tech:** Next.js, Express.js, PostgreSQL, Prisma.
+- **Solution:** Designed a robust API and database schema to handle complex filtering and real-time analytical visualizations.
+- [[Code](https://github.com/ORLOV-DMITRI/coinly-frontend)]
 
-**Ключевые фичи:**
--  Prisma ORM + PostgreSQL
--  Serverless архитектура на Vercel
-
----
-
-### 📸 Photo Booth — Фото-сервис
-[Live Demo](https://photo.dmitri-server.ru/) | [Code](https://github.com/ORLOV-DMITRI/photo-frontend)
-
-**Что это:** Платформа для управления фото-заказами
-
-**Tech Stack:** Next.js, TanStack Query, Express.js, TypeScript
-
----
-###  Loom Clone — Видеозвонки
-[Live Demo](https://loom.dmitri-server.ru/) | [Code](https://github.com/ORLOV-DMITRI/zoom_clone)
-
-**Что это:** WebRTC приложение для видеозвонков
-
-**Tech Stack:** React, Tailwind, WebRTC
-
-**Ключевые фичи:**
--  Peer-to-peer видеозвонки через WebRTC
--  Screen sharing и аудио/видео controls
+#### [Xdoc — Code Snippets Hub](https://xdoc-lake.vercel.app/)
+*Cloud-based storage for developers.*
+- **Tech:** Prisma ORM, PostgreSQL, Serverless.
+- **Solution:** Built a performant, serverless data retrieval system for fast code snippet access.
+- [[Code](https://github.com/ORLOV-DMITRI/xdoc)]
 
 ---
 
-##  Tech Stack
+### 🛠 Technical Stack
 
-### Frontend
-- **Frameworks:** React 19, Next.js 15 (App Router, Server Components, SSR/SSG)
-- **State Management:** Redux Toolkit, TanStack Query, React Context
-- **Styling:** SCSS, Tailwind CSS, Shadcn UI, CSS Modules
-- **Forms:** Formik, React Hook Form
-- **Animations:** Framer Motion
-- **Build Tools:** Vite, Webpack, Gulp
-
-### Backend
-- **Runtime:** Node.js, Express.js
-- **ORM:** Prisma
-- **API:** REST API, Next.js API Routes
-- **Auth:** JWT, OAuth 2.0
-
-### Languages
-- **TypeScript** (основной)
-- **JavaScript** (ES6+)
-- **HTML5, CSS3**
-
-### Tools & DevOps
-- **Version Control:** Git, GitHub
-- **Deployment:** Vercel, VPS (nginx, PM2)
-- **Other:** Docker basics, CI/CD (GitHub Actions)
+| Area | Technologies |
+| :--- | :--- |
+| **Frontend** | React 19, Next.js 15, TypeScript, Redux Toolkit, TanStack Query, Tailwind CSS, Framer Motion |
+| **Backend & Infra** | Node.js, Express.js, PostgreSQL, Prisma, Linux (VDS), PM2, Nginx, Docker basics |
+| **Workflow** | Git, CI/CD, AI Context Engineering, Architectural Prompting |
 
 ---
 
-##  Коммерческий опыт
-
-**Frontend Developer** @ Ferma Studio (Сентябрь 2023 — настоящее время)
-
-Разработка веб-приложений для digital-агентства на React/Next.js
-
-**Ключевые проекты:**
-- **nazvezdu.ru** — Сервис бронирования мероприятий (Next.js 15, React Admin, 50+ городов)
-- **fermastudio.com** — Корпоративный сайт с анимациями (Framer Motion, 22 страницы)
-- **E-commerce платформа** (NDA) — 500+ товаров, Redux Toolkit, checkout flow
-- **kriastak.ru** — Корпоративный сайт завода (WordPress + custom development)
-
----
-
-##  Контакты
-
--  Email: dmitri.orlov.anatolevich@gmail.com
--  Telegram: [@orlovwebdev](https://t.me/orlovwebdev)
--  GitHub: [ORLOV-DMITRI](https://github.com/ORLOV-DMITRI)
--  Phone: +7 (747) 630-35-09
+### 📬 Contacts
+- **Email:** dmitri.orlov.anatolevich@gmail.com
+- **Telegram:** [@orlovwebdev](https://t.me/orlovwebdev)
+- **LinkedIn:** [dmitri-orlov-dev](https://linkedin.com/in/dmitri-orlov-dev)
