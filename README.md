@@ -1,60 +1,43 @@
-# Dmitri Orlov
-**Software Engineer | Frontend & Full-Stack | AI-Assisted Development**
+# Дмитрий Орлов
 
-> *“Applying a system-level mindset rooted in High-Energy Physics to build high-performance, scalable web systems.”*
+Frontend-разработчик (React / Next.js)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dmitri--Orlov-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/dmitri-orlov-dev)
 [![Telegram](https://img.shields.io/badge/Telegram-@orlovwebdev-0088cc?style=flat-square&logo=telegram)](https://t.me/orlovwebdev)
 
----
 
-###  Professional Profile
-I am a Software Engineer with **3+ years of commercial experience**, specializing in the **React/Next.js ecosystem**. With a background in **High-Energy Physics**, I approach development as system engineering — focusing on architecture, state management, and performance before the first line of code is written.
 
-- 🛠 **Expertise:** React 19, Next.js 15 (App Router, SSR), TypeScript, Redux Toolkit.
-- ⚙️ **Full-Stack:** Designing reliable backends with Node.js, Express, and PostgreSQL.
-- 🤖 **AI-Assisted:** Pioneering high-velocity development by using AI coding agents (Claude, Qwen) as precision tools guided by strict architectural specifications.
+Сейчас сервер с моими pet-проектами временно недоступен — восстанавливаю доступы. Код доступен в репозиториях по ссылкам ниже.
 
----
+## О себе
 
-###  AI-Assisted Methodology
-I leverage a structured workflow to accelerate delivery while maintaining 100% production stability:
-- **Architectural Spec:** Defining module logic and constraints first.
-- **Context Engineering:** Feeding LLMs with strict documentation and style guides.
-- **Human-in-the-Loop:** Conducting line-by-line manual audits of all generated logic.
+3+ года коммерческого опыта в digital-агентстве. Основной стек: React 17–19, Next.js 14–15, TypeScript, TanStack Query, Redux Toolkit, Zustand.
 
----
+Пришёл во фронтенд из физики высоких технологий (ОмГУ, бакалавр) — привык сначала разбирать систему по элементам, потом писать код.
 
-###  Key Projects
+В ежедневной работе использую Claude: пишу спецификации с архитектурой и ограничениями, потом построчно ревьюю вывод.
 
-#### [nazvezdu.ru — Booking Platform](https://nazvezdu.ru)
-*A high-load event booking service serving 50+ cities.*
-- **Role:** Frontend Lead / Architect.
-- **Solution:** Engineered the client-side on Next.js 15 with custom SSR for instant SEO-friendly loads and a zero-reload city localization system.
+## Проекты
 
-#### [Coinly — Full-Stack Finance Tracker](https://dmitri-server.ru/coinly)
-*An end-to-end system for personal expense management.*
-- **Tech:** Next.js, Express.js, PostgreSQL, Prisma.
-- **Solution:** Designed a robust API and database schema to handle complex filtering and real-time analytical visualizations.
-- [[Code](https://github.com/ORLOV-DMITRI/coinly-frontend)]
+**nazvezdu.ru** — платформа бронирования событий с поддержкой 50+ городов. Делал клиентскую часть на Next.js 15 (App Router, SSR) и CMS-админку на react-admin 5.
+Сайт: https://nazvezdu.ru
 
-#### [Xdoc — Code Snippets Hub](https://xdoc-lake.vercel.app/)
-*Cloud-based storage for developers.*
-- **Tech:** Prisma ORM, PostgreSQL, Serverless.
-- **Solution:** Built a performant, serverless data retrieval system for fast code snippet access.
-- [[Code](https://github.com/ORLOV-DMITRI/xdoc)]
+**Coinly** — pet-проект, трекер личных финансов. Next.js, Express.js, PostgreSQL, Prisma.
+Код: https://github.com/ORLOV-DMITRI/coinly-frontend
+Демо временно недоступно (сервер отключён).
 
----
+**Xdoc** — pet-проект, хранилище сниппетов кода. Next.js, Prisma, PostgreSQL.
+Код: https://github.com/ORLOV-DMITRI/xdoc
+Демо: https://xdoc-lake.vercel.app/
 
-###  Technical Stack
+## Стек
 
-| Area | Technologies |
-| :--- | :--- |
-| **Frontend** | React 19, Next.js 15, TypeScript, Redux Toolkit, TanStack Query, Tailwind CSS, Framer Motion |
-| **Backend & Infra** | Node.js, Express.js, PostgreSQL, Prisma, Linux (VDS), PM2, Nginx, Docker basics |
-| **Workflow** | Git, CI/CD, AI Context Engineering, Architectural Prompting |
+React 17–19, Next.js 14–15, TypeScript, Redux Toolkit, Zustand, TanStack Query, RTK Query, SCSS, CSS Modules, Tailwind, Framer Motion, GSAP, Astro, Node.js, Express.js, PostgreSQL, Prisma, Git, Vite, Webpack.
 
----
+## Контакты
+
+dmitri.orlov.anatolevich@gmail.com
+Telegram: @orlovwebdev
 
 ###  Contacts
 - **Email:** dmitri.orlov.anatolevich@gmail.com
