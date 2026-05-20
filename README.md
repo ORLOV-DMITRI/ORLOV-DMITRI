@@ -11,7 +11,7 @@ Frontend-разработчик (React / Next.js)
 
 ## О себе
 
-3+ года коммерческого опыта в digital-агентстве. Основной стек: React 17–19, Next.js 14–15, TypeScript, TanStack Query, Redux Toolkit, Zustand.
+4 года коммерческого опыта в digital-агентстве. Основной стек: React 17–19, Next.js 14–15, TypeScript, TanStack Query, Redux Toolkit, Zustand.
 
 Пришёл во фронтенд из физики высоких технологий (ОмГУ, бакалавр) — привык сначала разбирать систему по элементам, потом писать код.
 
